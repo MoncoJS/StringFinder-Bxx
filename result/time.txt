@@ -1,0 +1,2 @@
+Run 01: 126771900 nanoseconds
+Run 01: 226678500 nanoseconds
